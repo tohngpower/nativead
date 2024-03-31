@@ -1,4 +1,4 @@
-package com.psn.myai
+package com.yourpackage
 
 import android.content.pm.ActivityInfo
 import android.os.Bundle
